@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/pets.dir/pets.c.o -o pets 

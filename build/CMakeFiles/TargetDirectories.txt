@@ -1,0 +1,3 @@
+/mnt/c/Users/angel/Desktop/TUTORIAL2/build/CMakeFiles/pets.dir
+/mnt/c/Users/angel/Desktop/TUTORIAL2/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/angel/Desktop/TUTORIAL2/build/CMakeFiles/rebuild_cache.dir
